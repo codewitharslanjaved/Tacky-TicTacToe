@@ -18,7 +18,7 @@ Welcome to **Tacky**, a sleek and vibrant **Tic Tac Toe** game powered by electr
 
 ## 📸 Preview
 
-![Tacky Tic Tac Toe](https://github.com/codewitharslanjaved/Tacky-TicTacToe/blob/main/Tic%20Tac%20Toe%20%7C%20Tacky%20Games.png)
+![Tacky Tic Tac Toe](https://github.com/codewitharslanjaved/Tacky-TicTacToe/blob/main/Tic%20Tac%20Toe%20-%20Tacky%20Games.png)
 
 ---
 
